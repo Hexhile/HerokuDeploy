@@ -1,2 +1,2 @@
-web: gunicorn locallibrary.wsgi --log-file -
+web: gunicorn Portfolio.wsgi --log-file -
 
