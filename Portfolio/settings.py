@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-owbcy_s(g(bs^xtw1_f-#)v3#h(2t_d9)8aga&&w7=4g&-(sqz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vast-oasis-81374.herokuapp.com',]
 
 
 # Application definition
