@@ -185,7 +185,6 @@ regex==2021.4.4
 requests==2.25.1
 rope==0.18.0
 Rtree==0.9.7
-ruamel-yaml-conda 
 scikit-image==0.18.1
 scikit-learn==0.24.1
 scipy==1.6.2
