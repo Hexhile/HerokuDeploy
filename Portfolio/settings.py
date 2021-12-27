@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'portfolio',
         'USER': 'hexhile',
         'PASSWORD': 'root',
-        'HOST': '127.0.0.1',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }
