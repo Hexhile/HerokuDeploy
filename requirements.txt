@@ -193,7 +193,7 @@ SecretStorage==3.3.1
 Send2Trash==1.5.0
 simplegeneric==0.8.1
  
-sip==4.19.13
+ 
 six==1.15.0
 sniffio==1.2.0
 snowballstemmer==2.1.0
